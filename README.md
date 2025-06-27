@@ -16,7 +16,7 @@
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,csharp,unity,vue,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,cs,unity,vue,bootstrap&theme=dark" />
 </p>
 
 ## 🌟 Recent Activity
