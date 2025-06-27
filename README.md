@@ -19,16 +19,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,cs,unity,vue,bootstrap&theme=dark" />
 </p>
 
-## 🌟 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123] in [repository]
-2. 🚀 Pushed 3 commits to [repository]
-3. 🐛 Fixed bug in [project]
-<!--END_SECTION:activity-->
-
-*Note: Aktifitas di atas akan terupdate otomatis menggunakan [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)*
-
 ## 📫 How to Reach Me
 
 <p align="center">
