@@ -1,4 +1,4 @@
-# Hi there, I'm LAWAGGG! 👋
+# Hi there, I'm Ahmad Faqih! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=5BCDEC&width=435&lines=Full+Stack+Developer;Web+Developer;Game+Enthusiast)](https://git.io/typing-svg)
 
