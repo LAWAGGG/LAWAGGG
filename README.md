@@ -22,19 +22,16 @@
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="https://instagram.com/yourusername">
+  <a href="https://www.instagram.com/fagih_channel/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://wa.me/yourphonenumber">
+  <a href="https://wa.me/6287731366777">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmadfagih.arrifai@gmail.com&su=Inquiry%20about%20Your%20Services&body=Halo!%0A%0ASaya%20tertarik%20dengan%20portofolio%20Anda.%20Bisa%20berdiskusi%20lebih%20lanjut?%0A%0ATerima%20kasih!%20Salam">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href=https://open.spotify.com/user/yourusername">
+    <a href=https://open.spotify.com/user/31kyzdsfsy5qbgubsdnqmt34l6ke?si=36f12e3830684b7e">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
-## ⚡ Fun Fact
-I love creating both web applications and game development!
