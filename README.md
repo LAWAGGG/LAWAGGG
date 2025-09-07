@@ -19,6 +19,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,cs,unity,vue,bootstrap,tailwind&theme=dark" />
 </p>
 
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/LAWAGGG/LAWAGGG/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 📫 How to Reach Me
 
 <p align="center">
@@ -28,4 +34,10 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmadfagih.arrifai@gmail.com&su=Inquiry%20about%20Your%20Services&body=Halo!%0A%0ASaya%20tertarik%20dengan%20portofolio%20Anda.%20Bisa%20berdiskusi%20lebih%20lanjut?%0A%0ATerima%20kasih!%20Salam">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LAWAGGG&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
