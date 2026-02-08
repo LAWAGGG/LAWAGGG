@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmad Faqih Arrifa'i! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=5BCDEC&width=435&lines=Frontend+Developer;Web+Developer;Game+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=5BCDEC&width=435&lines=Frontend+Developer;Web+Developer;Game+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
 
 ---
 
